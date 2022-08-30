@@ -1,0 +1,1 @@
+const newProject = "YYYY!";
