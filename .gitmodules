@@ -1,0 +1,4 @@
+[submodule "core"]
+	path = src/core
+	url = https://github.com/LisPavel/submodule.git
+	branch = stable
